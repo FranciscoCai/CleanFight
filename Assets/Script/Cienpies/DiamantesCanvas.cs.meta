@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a042ec67ac6e46b384d7818d202130d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiamanteRoto: {fileID: 21300000, guid: 6c8dd90d480e40c4fbb2746f531c2b52, type: 3}
+  - imagen: {instanceID: 0}
+  - Diamante: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,7 +5,31 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+    path: Assets/Scenes/Menu.unity
+    guid: 8bcd1a2153740fd42960ff603f343c7d
+  - enabled: 1
+    path: Assets/Scenes/Muerte.unity
+    guid: 7f57afcb45e0fae429b2d0ef241dc3e1
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: b8ea58b373db96c4b99c403434fef5db
+  - enabled: 1
+    path: Assets/Scenes/VideoCredito.unity
+    guid: e87a159a84d41b14ebee378696f777e0
+  - enabled: 1
+    path: Assets/Scenes/VideoLore.unity
+    guid: e00ec21efe8204648afb38dc9a435206
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: b0e6821038446ac4f9bb24a8433af2ed, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 560b7af731f97d44aba1eb6be88656aa, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 35a0eb18a84f1c24f9113336834256b1, type: 2}

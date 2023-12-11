@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ccbd481fd7c0de044b202a6db395cb67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Muerte: {instanceID: 0}
+  - SonidoDisparo: {instanceID: 0}
+  - Particula: {fileID: 4744623636879413115, guid: f62739dde3fd7c147b82d76e600cfff6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
