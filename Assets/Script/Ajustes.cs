@@ -18,4 +18,8 @@ public class Ajustes : MonoBehaviour
         Icon.SetActive(true );
         Musics.SetActive(false);
     }
+    public void OpenPrivacy()
+    {
+        Application.OpenURL("https://tlspro.com/privacy-policy");
+    }
 }
